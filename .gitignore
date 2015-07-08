@@ -1,0 +1,11 @@
+/Debug/
+
+.project*
+
+.cproject*
+
+/.settings/
+
+build.properties*
+
+build.xml*
